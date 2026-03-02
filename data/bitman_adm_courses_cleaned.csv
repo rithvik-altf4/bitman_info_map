@@ -1,0 +1,31 @@
+course_code,course_name,stream,prerequisite_text,source_url,outline_url
+BABI3000,Data Quality Approaches for Business,ADM Option,50% in BSYS 2000 Successful completion of Year 1 in the BITMAN program.,https://www.bcit.ca/courses/babi3000/,https://www.bcit.ca/outlines/babi3000/
+BABI3005,Data Governance for Business Analytics,ADM Option,No prerequisites are required for this course.,https://www.bcit.ca/courses/babi3005/,https://www.bcit.ca/outlines/babi3005/
+BABI4000,Applied Data Management for Analytics,ADM Option,50% in BABI 3000,https://www.bcit.ca/courses/babi4000/,https://www.bcit.ca/outlines/babi4000/
+BABI4005,DQM with Python,ADM Option,50% in BABI 3005,https://www.bcit.ca/courses/babi4005/,https://www.bcit.ca/outlines/babi4005/
+BLAW3600,Computers and the Law,ADM Option,No prerequisites are required for this course.,https://www.bcit.ca/courses/blaw3600/,https://www.bcit.ca/outlines/blaw3600/
+BSYS3000,Cloud Business Development 1,ADM Option,BSYS 2065,https://www.bcit.ca/courses/bsys3000/,https://www.bcit.ca/outlines/bsys3000/
+BSYS3205,Business Intelligence 1,ADM Option,BSYS 2000,https://www.bcit.ca/courses/bsys3205/,https://www.bcit.ca/outlines/bsys3205/
+BSYS3355,Management Information Systems,ADM Option,BSYS 2065,https://www.bcit.ca/courses/bsys3355/,https://www.bcit.ca/outlines/bsys3355/
+BSYS4000,Cloud Business Development 2,ADM Option,BSYS 3000,https://www.bcit.ca/courses/bsys4000/,https://www.bcit.ca/outlines/bsys4000/
+BSYS4905,Directed Studies,ADM Option,"Successful completion of Levels 1, 2 and 3 courses (may be short one Level 3 course).",https://www.bcit.ca/courses/bsys4905/,https://www.bcit.ca/outlines/bsys4905/
+BUSA4800,Management Policy,ADM Option,"50% in BUSA 2005 or 50% in BUSA 2100 Departmental approval needed to register in this course. Course registration is restricted to students that have completed a minimum of 30 credits of coursework in business programs and completed BUSA 2005 or 50% in BUSA 2100 or 50% in BUSA 2150 . To be considered for registration approval, please email the Business Administration Part Studies Program Assistant at Kim_Petkov@bcit.ca **Full-time day school students in the School of Business may not enroll in this course without the express consent of their day school Program Head.**",https://www.bcit.ca/courses/busa4800/,https://www.bcit.ca/outlines/busa4800/
+BUSA4850,Consulting Skills and Problem Solving,ADM Option,No prerequisites are required for this course.,https://www.bcit.ca/courses/busa4850/,https://www.bcit.ca/outlines/busa4850/
+FMGT3221,Management Accounting Administration,ADM Option,FMGT 2100 or FMGT 2152,https://www.bcit.ca/courses/fmgt3221/,https://www.bcit.ca/outlines/fmgt3221/
+FMGT4530,Enterprise Finance,ADM Option,FMGT 2152,https://www.bcit.ca/courses/fmgt4530/,https://www.bcit.ca/outlines/fmgt4530/
+OPMT3301,Quantitative Methods for Business,ADM Option,OPMT 1197 or an equivalent college level Business Stats course. Accessibility to and basic knowledge of personal computers.,https://www.bcit.ca/courses/opmt3301/,https://www.bcit.ca/outlines/opmt3301/
+OPMT4170,Applied Project Management,ADM Option,OPMT 1170,https://www.bcit.ca/courses/opmt4170/,https://www.bcit.ca/outlines/opmt4170/
+BSYS1000,Business Information Systems,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/bsys1000/,https://www.bcit.ca/outlines/bsys1000/
+BSYS2000,Applied Data Analytics in Excel,Common Year 1,50% in BSYS 1000 or 50% in BSYS 1001,https://www.bcit.ca/courses/bsys2000/,https://www.bcit.ca/outlines/bsys2000/
+BSYS2065,Business Systems Programming,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/bsys2065/,https://www.bcit.ca/outlines/bsys2065/
+BUSA2150,Introduction to Organizational Development,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/busa2150/,https://www.bcit.ca/outlines/busa2150/
+COMM1100,Business Communication 1,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/comm1100/,https://www.bcit.ca/outlines/comm1100/
+COMM2200,Business Communication 2,Common Year 1,50% in COMM 1100,https://www.bcit.ca/courses/comm2200/,https://www.bcit.ca/outlines/comm2200/
+ECON2100,Microeconomics,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/econ2100/,https://www.bcit.ca/outlines/econ2100/
+ECON2200,Macroeconomics,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/econ2200/,https://www.bcit.ca/outlines/econ2200/
+FMGT2152,Accounting for Management,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/fmgt2152/,https://www.bcit.ca/outlines/fmgt2152/
+MKTG1102,Essentials of Marketing,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/mktg1102/,https://www.bcit.ca/outlines/mktg1102/
+OPMT1103,Introduction to Operations Management,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/opmt1103/,https://www.bcit.ca/outlines/opmt1103/
+OPMT1110,Business Mathematics,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/opmt1110/,https://www.bcit.ca/outlines/opmt1110/
+OPMT1130,Business Statistics,Common Year 1,No prerequisites are required for this course.,https://www.bcit.ca/courses/opmt1130/,https://www.bcit.ca/outlines/opmt1130/
+OPMT1174,,Common Year 1,,https://www.bcit.ca/courses/opmt1174/,https://www.bcit.ca/outlines/opmt1174/
